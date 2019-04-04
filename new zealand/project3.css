@@ -1,0 +1,26 @@
+/*
+* courtney lenoir
+* due date
+* favorites
+*/
+
+/* the universal selector */
+
+* {
+
+}
+/* body attributes here*/
+body { background-color:antiquewhite;
+
+}
+
+/* this is to make my image float on the right side of my web page*/
+#city { float: right;}
+table, td, th { border: 1px solid yellow;}
+/* this formats my table*/
+table{ border-collapse: collapse;}
+/* this formats my tfoot section*/
+/* this formats my tbody section*/
+tbody{ background-color:darkcyan}
+thead { background-color:cornflowerblue;}
+/* this formats my tfoot section*/
